@@ -13,12 +13,12 @@
     "eventDisabled": [],
     "autoClean": true,
     "ACCESSTOKEN": "",
-    "BOTNAME": "Muskan",
-    "AMDIN_NAME": "Raza",
+    "BOTNAME": "Addu",
+    "AMDIN_NAME": "Aadil",
     "FACEBOOK_ADMIN": "https://www.facebook.com/61588112703542",
     "PREFIX": ".",
     "ADMINBOT": [
-        "100065216344877",
+        "100091942051676",
         ""
     ],
     "NDH": [
@@ -30,7 +30,116 @@
             "storage": "antists.sqlite"
         }
     },
-    "APPSTATEPATH": "appstate.json",
+    "APPSTATEPATH": "appstate.json",[
+    {
+        "key": "sb",
+        "value": "XaZgaY0qZbAdS7eTutqVfN6i",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T07:06:25.385Z",
+        "lastAccessed": "2026-03-13T07:06:25.387Z"
+    },
+    {
+        "key": "ps_l",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T07:06:25.387Z",
+        "lastAccessed": "2026-03-13T07:06:25.387Z"
+    },
+    {
+        "key": "ps_n",
+        "value": "1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T07:06:25.387Z",
+        "lastAccessed": "2026-03-13T07:06:25.387Z"
+    },
+    {
+        "key": "vpd",
+        "value": "v1%3B628x360x2",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T07:06:25.388Z",
+        "lastAccessed": "2026-03-13T07:06:25.388Z"
+    },
+    {
+        "key": "locale",
+        "value": "en_GB",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T07:06:25.388Z",
+        "lastAccessed": "2026-03-13T07:06:25.388Z"
+    },
+    {
+        "key": "datr",
+        "value": "5HWuaVpA9K2Qbst4g2jMnVqJ",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T07:06:25.388Z",
+        "lastAccessed": "2026-03-13T07:06:25.388Z"
+    },
+    {
+        "key": "pas",
+        "value": "61583790541622%3AzFWDLfBsQe%2C61586201410496%3AhJmqqBMyOr%2C100090746314128%3A5qGslGfdLl%2C100068090076711%3A4ManYcVueC",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T07:06:25.388Z",
+        "lastAccessed": "2026-03-13T07:06:25.388Z"
+    },
+    {
+        "key": "c_user",
+        "value": "61586201410496",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T07:06:25.388Z",
+        "lastAccessed": "2026-03-13T07:06:25.388Z"
+    },
+    {
+        "key": "xs",
+        "value": "5%3AqtEaBfIc3q3hag%3A2%3A1773328687%3A-1%3A-1",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T07:06:25.388Z",
+        "lastAccessed": "2026-03-13T07:06:25.389Z"
+    },
+    {
+        "key": "fr",
+        "value": "1EXl6FD8in0XDMkcM.AWcKNvosx5yPMmZM1HbEnQURq-5Y_cVUy_pPDJ4IUtQgr9Ds3YQ.Bpi4jU..AAA.0.0.Bps7do.AWfk9oewfh_9mzDYZNeJCJXTN10",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T07:06:25.389Z",
+        "lastAccessed": "2026-03-13T07:06:25.389Z"
+    },
+    {
+        "key": "fbl_st",
+        "value": "101228782%3BT%3A29556426",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T07:06:25.389Z",
+        "lastAccessed": "2026-03-13T07:06:25.389Z"
+    },
+    {
+        "key": "wl_cbv",
+        "value": "v2%3Bclient_version%3A3110%3Btimestamp%3A1773385576",
+        "domain": "facebook.com",
+        "path": "/",
+        "hostOnly": false,
+        "creation": "2026-03-13T07:06:25.389Z",
+        "lastAccessed": "2026-03-13T07:06:25.389Z"
+    }
+        ]
     "FCAOption": {
         "forceLogin": true,
         "listenEvents": true,
@@ -86,5 +195,5 @@
         "autoUnsend": "",
         "unsendMessageAfter": 5
     },
-    "ADMIN_NAME": "Talha"
+    "ADMIN_NAME": "Aadil Khan"
 }

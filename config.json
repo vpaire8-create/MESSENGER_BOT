@@ -13,17 +13,17 @@
     "eventDisabled": [],
     "autoClean": true,
     "ACCESSTOKEN": "",
-    "BOTNAME": "Muskan",
+    "BOTNAME": "BOT",
     "AMDIN_NAME": "Raza",
     "FACEBOOK_ADMIN": "https://www.facebook.com/61588112703542",
     "PREFIX": ".",
     "ADMINBOT": [
-        "100065216344877",
-        ""
+        "61572438990883",
+        "100085615149294"
     ],
     "NDH": [
-        "100065216344877",
-        ""
+        "61572438990883",
+        "100085615149294"
     ],
     "DATABASE": {
         "sqlite": {
